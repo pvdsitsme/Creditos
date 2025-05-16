@@ -1,2 +1,34 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+nome = input("Digite o nome do usuário: ") # Aguarde o usuário digitar algo
+credito = input("Digite o valor do crédito: ")
+peça = input('Digite o nome do produto: ')
+valor = input('Digite o valor do produto: ')
+num_float = float(valor)
+print(nome, 'retirou', peça, 'de valor:',num_float)
+
+x = float(credito)
+y= float(num_float)
+soma = x - y
+print('Restou dos seus créditos:', soma)
+
+if float(soma) > float(credito):
+  print('Você está devendo!')
+else:
+  print('você tem créditos sobrando!')
+
+nome2 = input("Gostaria de adicionar mais alguma peça: ")
+if nome2 == 'sim':
+  peça2 = input('Digite o nome do produto: ')
+  valor2 = input('Digite o valor do produto: ')
+  num_float2 = float(valor2)
+print(peça2, 'de valor:',num_float2)
+
+w = float(num_float2)
+soma2 = soma - w
+print('Restou dos seus créditos:', soma2)
+
+if float(soma2) < float(credito):
+  print('Você está devendo!')
+else:
+  print('você tem créditos sobrando!')
