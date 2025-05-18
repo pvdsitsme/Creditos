@@ -5,7 +5,7 @@ Projeto demo de programa de créditos para ter um controle sobre o uso dos créd
 
 O código Python foi utilizado no Colab Notebook do Google, podendo ser executado no mesmo terminal com a linguagem Python.
 
-## instruções de Execução
+## Instruções de Execução
 
 ## Explicação do uso dos códigos:
 O comando Input foi utilizado nas primeiras 4 linhas para a inserção/entrada dos valores como nome do funcionário, crédito recebido, nome e valor do produto.
