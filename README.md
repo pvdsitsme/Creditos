@@ -7,7 +7,7 @@ O código Python foi utilizado no Colab Notebook do Google, podendo ser executad
 
 ## Instruções de Execução
 
-## Explicação do uso dos códigos:
+## Explicação dos códigos:
 O comando Input foi utilizado nas primeiras 4 linhas para a inserção/entrada dos valores como nome do funcionário, crédito recebido, nome e valor do produto.
 
 O comando Num_float foi utlizado para transformar a variável "valor" em um número real.
