@@ -1,14 +1,13 @@
 # Creditos
 Programa de créditos para funcionários de uma empresa.
 
-
 Projeto demo de programa de créditos para ter um controle sobre o uso dos créditos dos funcionários nos produtos da empresa.
 
 O código Python foi utilizado no Colab Notebook do Google, podendo ser executado no mesmo terminal com a linguagem Python.
 
+## instruções de Execução
 
-Explicação dos códigos:
-
+## Explicação do uso dos códigos:
 O comando Input foi utilizado nas primeiras 4 linhas para a inserção/entrada dos valores como nome do funcionário, crédito recebido, nome e valor do produto.
 
 O comando Num_float foi utlizado para transformar a variável "valor" em um número real.
