@@ -9,8 +9,10 @@ O código Python foi utilizado no Colab Notebook do Google, podendo ser executad
 
 Explicação dos códigos:
 
-Linha 1: utilizou-se input para poder adicionar o nome do funcionário.
+Linha 1: utilizou-se o comando input para poder adicionar o nome do funcionário.
 
-Linha2: utilizou-se input para poder adicionar o valor do crédito mensal recebido pelo funcionário.
+Linha2: utilizou-se o comando input para poder adicionar o valor do crédito mensal recebido pelo funcionário.
 
-Linha3: 
+Linha3: utilizou-se o comando input para poder adicionar a peça a ser retirada pelo funcionário.
+
+Linha4:
