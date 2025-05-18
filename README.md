@@ -9,10 +9,11 @@ O código Python foi utilizado no Colab Notebook do Google, podendo ser executad
 
 Explicação dos códigos:
 
-Linha 1: utilizou-se o comando input para poder adicionar o nome do funcionário.
+O comando input foi utilizado nas primeiras 4 linhas para a inserção/entrada dos valores como nome do funcionário, crédito recebido, nome e valor do produto.
 
-Linha2: utilizou-se o comando input para poder adicionar o valor do crédito mensal recebido pelo funcionário.
+O "num_float" foi utlizado para transformar a variável "valor" em um número real.
 
-Linha3: utilizou-se o comando input para poder adicionar a peça a ser retirada pelo funcionário.
+Na linha 6 utilizou print para mostrar as informações de quem retirou tal peça e seu valor.
 
-Linha4:
+Já das linhas 8 ao 11, X representa a variável credito e Y representa a variável valor, onde na linha 10 se tem a subtração desses dois valores (credito - valor). o Print mostra o valor restante dessa subtração.
+
